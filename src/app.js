@@ -2,7 +2,7 @@ import React from 'react';
 import {  render  } from 'react-dom';
 import {  TodoList  } from './components';
 
-const = dummyTodos = [
+const dummyTodos = [
   { id: 0,  isDone: true, text: 'make components' },
   { id: 1,  isDone: false, text: 'design actions' },
   { id: 2,  isDone: false, text: 'implements reducers' },
