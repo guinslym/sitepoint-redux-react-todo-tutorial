@@ -1,6 +1,7 @@
 html, body, input, button {
   font-family: Sawasdee;
   font-size: 20px;
+  backgroung-color: grey;
 }
 
 .todo__list {
