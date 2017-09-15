@@ -1,0 +1,23 @@
+{
+  "name": "sitepoint-redux-react-todo-app",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guinslym/sitepoint-redux-react-todo-tutorial.git"
+  },
+  "keywords": [
+    "tutorial",
+    "redux"
+  ],
+  "author": "Guinsly mondésir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guinslym/sitepoint-redux-react-todo-tutorial/issues"
+  },
+  "homepage": "https://github.com/guinslym/sitepoint-redux-react-todo-tutorial#readme"
+}
