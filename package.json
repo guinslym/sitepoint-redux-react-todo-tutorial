@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/guinslym/sitepoint-redux-react-todo-tutorial/issues"
   },
-  "homepage": "https://github.com/guinslym/sitepoint-redux-react-todo-tutorial#readme"
+  "homepage": "https://github.com/guinslym/sitepoint-redux-react-todo-tutorial#readme",
+  "dependencies": {
+    "immutable": "^3.8.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  }
 }
